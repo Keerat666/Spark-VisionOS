@@ -49,7 +49,7 @@ This project is licensed under the MIT License (see LICENSE.md file for details)
 
 ## Authors
 
-* [Keerat666](https://github.com/keerat666))
+* [Keerat666](https://github.com/keerat666)
 
 ## Follow on Youtube Live Stream is available here : 
 
